@@ -12,7 +12,7 @@
 
 - 🔭 I’m former working on [Lloyds Banking Group](https://www.lloydsbank.com/)
 
-- 🌱 I’m currently learning **Javascript, React, Node and API**
+- 🌱 I’m currently learning **Javascript, React, TypeScript, Express, Node, SQL, C#, Angular and REST API**
 
 - 👨‍💻 All of my projects are available at [https://domwokorach.github.io/Portfolio-React/](https://domwokorach.github.io/Portfolio-React/)
 
