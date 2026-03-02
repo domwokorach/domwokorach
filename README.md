@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **dominic.wokorach-@gmail.com**
+- 📫 How to reach me **dominic.wokorach-o@outlook.com**
 
 - ⚡ Fun fact **I am cool**
 
