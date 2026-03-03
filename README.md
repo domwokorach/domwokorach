@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/do3inic" target="blank"><img src="https://img.shields.io/twitter/follow/do3inic?logo=twitter&style=for-the-badge" alt="do3inic" /></a> </p>
 
-- 👨‍💻 Currently Course/Employer - 2025 - Present...
+- 👨‍💻 Currently Course/Employer - Present...
 
 - 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/) - Current
 
