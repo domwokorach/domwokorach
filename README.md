@@ -10,7 +10,7 @@
 
 - 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/) - Current
 
-- 🔭 I’m former working on [Lloyds Banking Group](https://www.lloydsbank.com/)
+- 🔭 I’m former working on [Lloyds Banking Group](https://www.lloydsbank.com/) - Former
 
 - 🌱 I’m currently learning **Javascript, React, TypeScript, Express, Node, SQL, C#, Angular and REST API**
 
