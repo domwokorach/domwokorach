@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, TypeScript, Express, Node, SQL, C#, Angular and REST API**
 
-- 👨‍💻 All of my projects are available at[Portfolio's Wokorach]([https://www.lloydsbank.com/](https://portfolio-wokorach.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio's Wokorach]([https://www.lloydsbank.com/](https://portfolio-wokorach.vercel.app/))
 
 - 💬 Ask me about **MERN**
 
