@@ -8,7 +8,7 @@
 
 - 👨‍💻 Currently Course - 2025 - Present...
 
-- 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/)
+- 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/) - Current
 
 - 🔭 I’m former working on [Lloyds Banking Group](https://www.lloydsbank.com/)
 
