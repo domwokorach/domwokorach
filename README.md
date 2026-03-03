@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, TypeScript, Express, Node, SQL, C#, Angular and REST API**
 
-- 👨‍💻 All of my projects are available at [https://domwokorach.github.io/Portfolio-React/](https://portfolio-wokorach.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://domwokorach.github.io/Portfolio-React/]([https://portfolio-wokorach.vercel.app/](https://portfolio-wokorach.vercel.app/))
 
 - 💬 Ask me about **MERN**
 
