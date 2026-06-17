@@ -8,7 +8,7 @@
 
 - 👨‍💻 Currently Course/Employer - Present...
 
-- 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/) - Current
+- 🔭 Sky Group [Sky Group](https://careers.sky.com/lifeatsky/) - Former
 
 - 🔭 I’m former working on [Lloyds Banking Group](https://www.lloydsbank.com/) - Former
 
