@@ -15,7 +15,7 @@
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/domwokorach.svg?variant=secondary&theme=slate)](https://github.com/domwokorach?tab=followers) 
 [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/domwokorach.svg?variant=secondary&theme=slate)](https://github.com/domwokorach?tab=repositories) 
 [![Public Repos](https://www.shieldcn.dev/badge/Repos-29-2563eb.svg?logo=github&variant=secondary&theme=slate)](https://github.com/domwokorach?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-London-6366f1.svg?logo=googlemaps&variant=ghost&theme=slate)
-![last commit](https://shieldcn.dev/github/last-commit/domwokorach/Portfolio-Wokorach.svg?variant=secondary)
+[![last commit](https://shieldcn.dev/github/last-commit/domwokorach/Portfolio-Wokorach.svg?variant=secondary)]
 
 </div>
 
@@ -34,7 +34,7 @@
 - ## Contribution Activity
 
 <div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domwokorach&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domwokorach&theme=tokyo-night&hide_border=true&area=true)]
 </div>
 
 
