@@ -13,7 +13,7 @@
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/domwokorach.svg?variant=secondary&size=sm)](https://github.com/domwokorach?tab=followers)
 [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/domwokorach.svg?variant=secondary&size=sm)](https://github.com/domwokorach?tab=repositories)
-[![Public Repos](https://www.shieldcn.dev/badge/Repos-32-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/domwokorach?tab=repositories)
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/domwokorach?tab=repositories)
 ![Location](https://www.shieldcn.dev/badge/Location-London,UK-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
 </div>
