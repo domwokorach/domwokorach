@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dominic Wokorach-Olanya 👋🏿
+# Hi, I'm Dominic 👋🏿
 
 <img src="https://komarev.com/ghpvc/?username=domwokorach&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
