@@ -54,47 +54,39 @@
 
 </div>
 
-## Skills & Technologies
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&theme=slate) 
+## Frontend
+![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&theme=slate) 
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&theme=slate) 
-![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded&theme=slate) 
-![R](https://www.shieldcn.dev/badge/-R-276DC3.svg?logo=r&variant=branded&theme=slate) 
-![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&theme=slate) 
-![Zustand](https://www.shieldcn.dev/badge/-Zustand-FFB800.svg?logo=zustand&variant=branded&theme=slate) 
-![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&theme=slate) 
-![Husky](https://www.shieldcn.dev/badge/-Husky-3B82F6.svg?logo=husky&variant=branded&theme=slate) 
-![lint-staged](https://www.shieldcn.dev/badge/-lint--staged-F05032.svg?logo=git&variant=branded&theme=slate) 
-![UnoCSS](https://www.shieldcn.dev/badge/-UnoCSS-333333.svg?logo=unocss&variant=branded&theme=slate) 
-![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&theme=slate)
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&theme=slate)
+![Next.js](https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=fff&variant=branded)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)
 
 ## Backend & API
 ![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
 ![Express](https://www.shieldcn.dev/badge/-Express-339933.svg?logo=nodedotjs&variant=branded&size=sm)
-![REST APIs](https://www.shieldcn.dev/badge/-REST_API-339933.svg?logo=api&variant=branded&size=sm)
-![SQL](https://www.shieldcn.dev/badge/-SQL-339933.svg?logo=sql&variant=branded&size=sm)
-
-## Frameworks & Libraries
-![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
-![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
-![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
-![Express](https://www.shieldcn.dev/badge/-Express-000000.svg?logo=express&variant=branded&size=sm)
+![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
+![MySQL](https://shieldcn.dev/badge/MySQL-4479A1.svg?logo=mysql&logoColor=fff&variant=branded)
+![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded)
 
 ## Testing & Quality
-![Jest](https://www.shieldcn.dev/badge/-Jest.js-339933.svg?logo=jest&variant=branded&size=sm)
-![React Testing Library](https://www.shieldcn.dev/badge/-React_Testing-339933.svg?logo=tdd&variant=branded&size=sm)
+![Jest](https://www.shieldcn.dev/badge/-Jest-339933.svg?logo=jest&variant=branded&size=sm)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## Tools & DevOps
+## Cloud & DevOps
 ![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
 ![Kubernetes](https://www.shieldcn.dev/badge/-Kubernetes-326CE5.svg?logo=kubernetes&variant=branded&size=sm)
 ![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
 ![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
-![AWS](https://www.shieldcn.dev/badge/-AWS-232F3E.svg?logo=amazonaws&variant=branded&size=sm)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Databases
 ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
 ![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
 ![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
+
+## Frameworks & State Management
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📦 Top Repositories
 
