@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40domwokorach-181717.svg?logo=github&variant=branded&size=sm)]([https://github.com/domwokorach/domwokorach](https://github.com/domwokorach/domwokorach))
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40domwokorach-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/domwokorach/domwokorach)
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40dominic-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/dominic-w-3673523b/)
 
 <br/>
