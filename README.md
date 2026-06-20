@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Dominic 👋🏿
-
 <img src="https://komarev.com/ghpvc/?username=domwokorach&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 <br/>
@@ -34,7 +33,9 @@
 - ## Contribution Activity
 
 <div align="center">
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domwokorach&theme=tokyo-night&hide_border=true&area=true)]
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domwokorach&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 
