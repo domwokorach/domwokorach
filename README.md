@@ -63,6 +63,7 @@
 ![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)
 
 ## Backend & API
+![Python](https://www.shieldcn.dev/badge/-Python-F7DF1E.svg?logo=python&variant=branded&theme=slate)
 ![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
 ![Express](https://www.shieldcn.dev/badge/-Express-339933.svg?logo=nodedotjs&variant=branded&size=sm)
 ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
