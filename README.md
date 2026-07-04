@@ -45,8 +45,6 @@
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=domwokorach&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domwokorach&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domwokorach&theme=tokyonight" />
-
 </div>
 
 <div align="center">
