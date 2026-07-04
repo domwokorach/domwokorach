@@ -65,14 +65,16 @@
 ## Backend & API
 ![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
 ![Express](https://www.shieldcn.dev/badge/-Express-339933.svg?logo=nodedotjs&variant=branded&size=sm)
-![Python](https://www.shieldcn.dev/badge/-Python-F7DF1E.svg?logo=python&variant=branded&theme=slate)
+![Python](https://www.shieldcn.dev/badge/-Python-2496ED.svg?logo=python&variant=branded&theme=slate)
 ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)
 ![MySQL](https://shieldcn.dev/badge/MySQL-4479A1.svg?logo=mysql&logoColor=fff&variant=branded)
 ![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded)
 
 ## Testing & Quality
 ![Jest](https://www.shieldcn.dev/badge/-Jest-339933.svg?logo=jest&variant=branded&size=sm)
+![Jenkins](https://img.shields.io/badge/Jenkins%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 
 ## Cloud & DevOps
 ![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
