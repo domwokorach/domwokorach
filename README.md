@@ -88,6 +88,7 @@
 ![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
 ![SQLite](https://www.shieldcn.dev/badge/-SQLite-87CEEB.svg?logo=sqlite&variant=branded&size=sm)
 ![Postman](https://www.shieldcn.dev/badge/-Postman-FFA500.svg?logo=postman&variant=branded&size=sm)
+![Django](https://www.shieldcn.dev/badge/-Django-006400.svg?logo=django&variant=branded&size=sm)
 
 ## Frameworks & State Management
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
