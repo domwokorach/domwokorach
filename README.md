@@ -77,7 +77,7 @@
 ## Cloud & DevOps
 ![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
 ![Kubernetes](https://www.shieldcn.dev/badge/-Kubernetes-326CE5.svg?logo=kubernetes&variant=branded&size=sm)
-![GraphQL](https://www.shieldcn.dev/badge/-GraphQL-326CE5.svg?logo=graphql&variant=branded&size=sm)
+![GraphQL](https://www.shieldcn.dev/badge/-GraphQL-800080.svg?logo=graphql&variant=branded&size=sm)
 ![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
 ![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
