@@ -86,6 +86,7 @@
 ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
 ![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
 ![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
+![SQLite](https://www.shieldcn.dev/badge/-SQLite-87CEEB.svg?logo=sqlite&variant=branded&size=sm)
 ![Postman](https://www.shieldcn.dev/badge/-Postman-FFA500.svg?logo=postman&variant=branded&size=sm)
 
 ## Frameworks & State Management
