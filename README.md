@@ -72,6 +72,8 @@
 ## Testing & Quality
 ![Jest](https://www.shieldcn.dev/badge/-Jest-339933.svg?logo=jest&variant=branded&size=sm)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwrite](https://img.shields.io/badge/-Playwrite-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 
 
 ## Cloud & DevOps
