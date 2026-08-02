@@ -57,6 +57,18 @@
 
 </div>
 
+## All-Time GitHub Contributions
+
+<div align="center">
+
+<img
+  width="60%"
+  src="https://github-readme-stats.vercel.app/api?username=domwokorach&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+  alt="All-time GitHub statistics"
+/>
+
+</div>
+
 ## Frontend
 ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&theme=slate) 
