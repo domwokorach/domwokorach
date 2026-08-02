@@ -19,11 +19,17 @@
 
 ---
 
-- ## Pull Requests & Issues
+## Pull Requests & Issues
 
 <div align="center">
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domwokorach&theme=tokyonight" />
+<a href="https://github.com/domwokorach">
+  <img
+    width="60%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domwokorach&theme=tokyonight"
+    alt="Pull requests and issues by domwokorach"
+  />
+</a>
 
 </div>
 
