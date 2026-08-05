@@ -19,53 +19,39 @@
 
 ---
 
-## Pull Requests & Issues
+- ## GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/domwokorach">
-  <img
-    width="60%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domwokorach&theme=tokyonight"
-    alt="Pull requests and issues by domwokorach"
-  />
-</a>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=domwokorach&rank_icon=percentile&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=domwokorach&rank_icon=percentile&include_all_commits=true&theme=github_dark)
 
 </div>
 
 ---
 
-- ## Contribution Activity
+- ## WakaTime Stats (last 7 days)
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domwokorach&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353&area=true&hide_border=true)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=github_dark)](https://wakatime.com/@alan)
 
 </div>
 
-- ## Open Source Contributions
+---
+
+- ## Most Used Languages
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=domwokorach&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domwokorach&theme=tokyonight" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=domwokorach&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=domwokorach&layout=compact&langs_count=4&theme=transparent)
+
 </div>
+
+---
 
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?domwokorach=vn7n24fzkq&theme=default)
-
-</div>
-
-## All-Time GitHub Contributions
-
-<div align="center">
-
-<img
-  width="60%"
-  src="https://github-readme-stats.vercel.app/api?username=domwokorach&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-  alt="All-time GitHub statistics"
-/>
 
 </div>
 
