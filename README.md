@@ -3,7 +3,7 @@
 # Hi, I'm Dominic 👋🏿
 <img
   src="https://komarev.com/ghpvc/?username=domwokorach&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"
-  style="border-radius: 5px;"
+  style="border-radius:5px;"
 />
 <br/>
 
