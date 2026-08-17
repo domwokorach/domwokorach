@@ -7,6 +7,18 @@
 />
 <br/>
 
+## GitHub Profile 3D Contributions
+
+<div align="center">
+
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="Dominic's GitHub 3D Contributions"
+    width="700"
+  />
+
+</div>
+
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40domwokorach-181717.svg?logo=github&variant=branded&theme=slate)](https://github.com/domwokorach) 
 [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40dominic--w--3673523b-0A66C2.svg?logo=linkedin&variant=branded&theme=slate)](https://linkedin.com/in/dominic-w-3673523b)
 [![X](https://www.shieldcn.dev/badge/x-%40dominic-181717.svg?logo=x&variant=branded&size=sm)](https://x.com/do3inic)
