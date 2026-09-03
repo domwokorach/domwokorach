@@ -78,6 +78,7 @@
 ![HTML5](https://www.shieldcn.dev/badge/-HTML5-E34F26.svg?logo=html5&variant=branded&theme=slate)
 ![CSS](https://www.shieldcn.dev/badge/-CSS-663399.svg?logo=css&variant=branded&theme=slate)
 ![PostCSS](https://www.shieldcn.dev/badge/-PostCSS-DD3A0A.svg?logo=postcss&variant=branded&theme=slate)
+![D3.js](https://www.shieldcn.dev/badge/-D3.js-F9A03C.svg?logo=d3&variant=branded&theme=slate)
 
 ## Backend & API
 ![Node.js](https://www.shieldcn.dev/badge/-Node.js-5FA04E.svg?logo=nodedotjs&variant=branded&theme=slate)
@@ -96,7 +97,6 @@
 ![React Testing Library](https://www.shieldcn.dev/badge/-React%20Testing%20Library-E33332.svg?logo=testinglibrary&variant=branded&theme=slate)
 ![Playwright](https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&variant=branded&theme=slate)
 ![TDD](https://www.shieldcn.dev/badge/-TDD-5C2D91.svg?logo=checkmarx&variant=branded&theme=slate)
-
 
 
 ## Cloud & DevOps
