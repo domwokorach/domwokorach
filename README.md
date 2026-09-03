@@ -119,6 +119,12 @@
 ![Postman](https://www.shieldcn.dev/badge/-Postman-FF6C37.svg?logo=postman&variant=branded&theme=slate)
 ![Browser DevTools](https://www.shieldcn.dev/badge/-Browser%20DevTools-4285F4.svg?logo=googlechrome&variant=branded&theme=slate)
 ![Local Development Environment](https://www.shieldcn.dev/badge/-Local%20Development%20Environment-007ACC.svg?logo=visualstudiocode&variant=branded&theme=slate)
+![JIRA](https://www.shieldcn.dev/badge/-JIRA-0052CC.svg?logo=jira&variant=branded&theme=slate)
+![Confluence](https://www.shieldcn.dev/badge/-Confluence-172B4D.svg?logo=confluence&variant=branded&theme=slate)
+
+## AI & Machine Learning
+![Generative AI](https://www.shieldcn.dev/badge/-Generative%20AI-412991.svg?logo=openai&variant=branded&theme=slate)
+![LLMs](https://www.shieldcn.dev/badge/-LLMs-412991.svg?logo=openai&variant=branded&theme=slate)
 
 ## Security & Authentication
 ![JWT](https://www.shieldcn.dev/badge/-JWT-000000.svg?logo=jsonwebtokens&variant=branded&theme=slate)
