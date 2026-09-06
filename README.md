@@ -78,7 +78,7 @@
 ![HTML5](https://www.shieldcn.dev/badge/-HTML5-E34F26.svg?logo=html5&variant=branded&theme=slate)
 ![CSS](https://www.shieldcn.dev/badge/-CSS-663399.svg?logo=css&variant=branded&theme=slate)
 ![PostCSS](https://www.shieldcn.dev/badge/-PostCSS-DD3A0A.svg?logo=postcss&variant=branded&theme=slate)
-![D3.js](https://www.shieldcn.dev/badge/-D3.js-F9A03C.svg?logo=d3&variant=branded&theme=slate)
+
 
 ## Backend & API
 ![Node.js](https://www.shieldcn.dev/badge/-Node.js-5FA04E.svg?logo=nodedotjs&variant=branded&theme=slate)
@@ -87,6 +87,8 @@
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&theme=slate)
 ![FastAPI](https://www.shieldcn.dev/badge/-FastAPI-009688.svg?logo=fastapi&variant=branded&theme=slate)
 ![GraphQL](https://www.shieldcn.dev/badge/-GraphQL-E10098.svg?logo=graphql&variant=branded&theme=slate)
+![MCP](https://www.shieldcn.dev/badge/-MCP-000000.svg?logo=modelcontextprotocol&variant=branded&theme=slate)
+![D3.js](https://www.shieldcn.dev/badge/-D3.js-F9A03C.svg?logo=d3&variant=branded&theme=slate)
 ![Socket.IO](https://www.shieldcn.dev/badge/-Socket.IO-010101.svg?logo=socketdotio&variant=branded&theme=slate)
 ![REST API](https://www.shieldcn.dev/badge/-REST%20API-6BA539.svg?logo=openapiinitiative&variant=branded&theme=slate)
 ![Django](https://www.shieldcn.dev/badge/-Django-092E20.svg?logo=django&variant=branded&theme=slate)
@@ -144,6 +146,7 @@
 
 ## CSS & Styling
 ![CSS](https://www.shieldcn.dev/badge/-CSS-663399.svg?logo=css&variant=branded&theme=slate)
+![MUI](https://www.shieldcn.dev/badge/-MUI-007FFF.svg?logo=mui&variant=branded&theme=slate)
 ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&variant=branded&theme=slate)
 ![Sass](https://www.shieldcn.dev/badge/-Sass-CC6699.svg?logo=sass&variant=branded&theme=slate)
 ![Less](https://www.shieldcn.dev/badge/-Less-1D365D.svg?logo=less&variant=branded&theme=slate)
