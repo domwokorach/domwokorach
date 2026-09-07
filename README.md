@@ -104,6 +104,7 @@
 ## Cloud & DevOps
 ![AWS](https://www.shieldcn.dev/badge/-AWS-232F3E.svg?logo=amazonwebservices&variant=branded&theme=slate)
 ![Google Cloud Platform](https://www.shieldcn.dev/badge/-Google%20Cloud%20Platform-4285F4.svg?logo=googlecloud&variant=branded&theme=slate)
+![Cloudflare](https://www.shieldcn.dev/badge/-Cloudflare-F38020.svg?logo=cloudflare&variant=branded&theme=slate)
 ![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&theme=slate)
 ![Kubernetes](https://www.shieldcn.dev/badge/-Kubernetes-326CE5.svg?logo=kubernetes&variant=branded&theme=slate)
 ![Jenkins](https://www.shieldcn.dev/badge/-Jenkins-D24939.svg?logo=jenkins&variant=branded&theme=slate)
